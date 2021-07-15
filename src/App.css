@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+img {
+  border-radius: 100%;
+}
+h1 {
+  color: aliceblue;
+}
+h2 {
+  color: aliceblue;
+}
+.App{
+  background-color:bisque;
+background-image:url('./coolbackground.png') ;
+}
+
